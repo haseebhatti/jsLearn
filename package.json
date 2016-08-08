@@ -1,0 +1,19 @@
+{
+  "name": "jslearn",
+  "version": "1.0.0",
+  "description": "This is a repo which shows examples of form validation using RegEx.",
+  "main": "formvalidation.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseebhatti/jsLearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haseebhatti/jsLearn/issues"
+  },
+  "homepage": "https://github.com/haseebhatti/jsLearn#readme"
+}
